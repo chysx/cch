@@ -1,0 +1,12 @@
+/**
+ * Copyright  Shanghai eBest Information Technology Co. Ltd  2019 All rights reserved.
+ *
+ * Author:    张国鹏
+ * email:     guopeng.zhang@ebestmobile.com
+ * Date:      2019/7/2:15:43
+ */
+import {SyncTableBean} from './SyncTableBean';
+
+export class SyncContentBean {
+    Tables: Array<SyncTableBean>;
+}
